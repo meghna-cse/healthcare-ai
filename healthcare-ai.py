@@ -255,9 +255,9 @@ with st.sidebar:
     
     st.markdown("""
     ### Learn More:
-    - (GitHub Repo)[https://github.com/meghna-cse/healthcare-ai]
-    - (About the Project)[https://github.com/meghna-cse/healthcare-ai/blob/main/README.md]
-    - (Architecture)[https://github.com/meghna-cse/healthcare-ai/blob/main/ARCHITECTURE.md]
+    - [GitHub Repo](https://github.com/meghna-cse/healthcare-ai)
+    - [About the Project](https://github.com/meghna-cse/healthcare-ai/blob/main/README.md)
+    - [Architecture](https://github.com/meghna-cse/healthcare-ai/blob/main/ARCHITECTURE.md)
     """)
 
 
