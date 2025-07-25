@@ -10,7 +10,7 @@ import random
 
 
 st.set_page_config(
-    page_title="Healthcare Engagement Platform AI",
+    page_title="Healthcare AI Engagement Platform",
     page_icon="🏥",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -250,14 +250,14 @@ with st.sidebar:
     ### Healthcare AI Assistant
     **Inspired by Catherine™ Platform**
     
-    This demo simulates a conversational AI supporting patients preparing for knee replacement surgery.
+    This demo simulates a conversational AI supporting patient preparing for knee replacement surgery.
     """)
     
     st.markdown("""
     ### Learn More:
-    - (GitHub Repo)[]
-    - (**About the Project**)[]
-    - (Architecture)[]
+    - (GitHub Repo)[https://github.com/meghna-cse/healthcare-ai]
+    - (About the Project)[https://github.com/meghna-cse/healthcare-ai/blob/main/README.md]
+    - (Architecture)[https://github.com/meghna-cse/healthcare-ai/blob/main/ARCHITECTURE.md]
     """)
 
 

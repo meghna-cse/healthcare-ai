@@ -1,4 +1,4 @@
-# 🏗️ Technical Architecture – Healthcare Engagement AI Platform
+# Technical Architecture – Healthcare Engagement AI Platform
 
 This document outlines the system design and implementation details for a conversational AI platform simulating patient engagement in a healthcare context. Inspired by Brado’s Catherine™ platform and related use cases, this project explores how domain-specific agents can drive patient outcomes through personalized, data-informed interaction.
 
