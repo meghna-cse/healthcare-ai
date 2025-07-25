@@ -173,7 +173,7 @@ def generate_personalized_response(user_message, patient_profile, conversation_h
     """Generate personalized, contextual AI response"""
     
     # Get relevant knowledge with patient context
-    knowledge = simulate_advanced_vector_search(user_message, patient_profile)
+    knowledge = simulate_vector_search(user_message, patient_profile)
     
     user_msg_lower = user_message.lower()
     patient_name = patient_profile["name"].split()[0]
